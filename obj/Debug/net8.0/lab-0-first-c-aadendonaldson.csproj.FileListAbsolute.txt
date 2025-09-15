@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\bin\Debug\net8.0\lab-0-first-c-aadendonaldson.exe
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\bin\Debug\net8.0\lab-0-first-c-aadendonaldson.deps.json
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\bin\Debug\net8.0\lab-0-first-c-aadendonaldson.runtimeconfig.json
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\bin\Debug\net8.0\lab-0-first-c-aadendonaldson.dll
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\bin\Debug\net8.0\lab-0-first-c-aadendonaldson.pdb
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\lab-0-first-c-aadendonaldson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\lab-0-first-c-aadendonaldson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\lab-0-first-c-aadendonaldson.AssemblyInfo.cs
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\lab-0-first-c-aadendonaldson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\lab-0-first-c-aadendonaldson.sourcelink.json
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\lab-0-first-c-aadendonaldson.dll
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\refint\lab-0-first-c-aadendonaldson.dll
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\lab-0-first-c-aadendonaldson.pdb
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\lab-0-first-c-aadendonaldson.genruntimeconfig.cache
+C:\Users\User\Desktop\lab-0-first-c-aadendonaldson\obj\Debug\net8.0\ref\lab-0-first-c-aadendonaldson.dll
